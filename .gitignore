@@ -1,0 +1,11 @@
+# judge-thankful r2 -- keep the repo free of local clutter
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+output/
+*.log
+.DS_Store
+node_modules/
+dist/
+*.tmp
