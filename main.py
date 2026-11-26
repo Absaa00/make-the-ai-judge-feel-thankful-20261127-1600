@@ -39,3 +39,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Revision: closing line softened ("Rest a little now...") so the text lands slower.
